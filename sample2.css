@@ -70,14 +70,14 @@ body {
 .left {
   position: absolute;
   left: 0;
-  top: 70%;
+  top: 65%;
   rotate: -90deg;
 }
 
 .right {
   position: absolute;
   right: 0;
-  top: 45%;
+  top: 35%;
   rotate: 90deg;
 }
 
